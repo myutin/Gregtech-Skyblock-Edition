@@ -1444,5 +1444,22 @@
       "chance": 0.0169,
       "meshLevel": 4
     }
+  ],
+  "ore:dust": [
+    {
+      "drop": "minecraft:dye:15",
+      "chance": 0.1,
+      "meshLevel": 1
+    },
+    {
+      "drop": "minecraft:glowstone_dust:-1",
+      "chance": 0.025,
+      "meshLevel": 3
+    },
+    {
+      "drop": "minecraft:blaze_powder:-1",
+      "chance": 0.037,
+      "meshLevel": 3
+    }
   ]
 }
